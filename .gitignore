@@ -1,0 +1,6 @@
+*.o
+*.mod.c
+*.ko
+emulator_kernel/*.symvers
+emulator_kernel/*.order
+emulator_kernel/.*
